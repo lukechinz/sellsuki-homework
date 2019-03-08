@@ -1,4 +1,4 @@
-package com.sellsuki.homework.homework;
+package com.sellsuki.homework;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

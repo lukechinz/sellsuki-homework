@@ -1,4 +1,4 @@
-package com.sellsuki.homework.homework;
+package com.sellsuki.homework;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
