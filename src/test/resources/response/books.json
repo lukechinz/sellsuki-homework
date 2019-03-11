@@ -1,0 +1,52 @@
+{
+  "books": [
+    {
+      "cover": "cover",
+      "price": "100",
+      "title": "Harry (I)",
+      "id": "1"
+    },
+    {
+      "cover": "cover",
+      "price": "200",
+      "title": "Harry (II)",
+      "id": "2"
+    },
+    {
+      "cover": "cover",
+      "price": "300",
+      "title": "Harry (III)",
+      "id": "3"
+    },
+    {
+      "cover": "cover",
+      "price": "400",
+      "title": "Harry (IV)",
+      "id": "4"
+    },
+    {
+      "cover": "cover",
+      "price": "500",
+      "title": "Harry (V)",
+      "id": "5"
+    },
+    {
+      "cover": "cover",
+      "price": "600",
+      "title": "Harry (VI)",
+      "id": "6"
+    },
+    {
+      "cover": "cover",
+      "price": "700",
+      "title": "Harry (VII)",
+      "id": "7"
+    },
+    {
+      "cover": "cover",
+      "price": "800",
+      "title": "Conan",
+      "id": "8"
+    }
+  ]
+}
