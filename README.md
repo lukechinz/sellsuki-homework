@@ -22,3 +22,7 @@ in this case I run this application on my server you can call this api
 		}
 	]
 }
+
+
+Collection for test api using postman can use link below
+https://www.getpostman.com/collections/8b5b752e8e40a05158fb
